@@ -44,8 +44,8 @@ comp43, C1SC(C)=CC=1, 1, C1%91SC(C)=CC=1.[*]%91
 comp44, C1OC(C)=CC=1, 1, C1%91OC(C)=CC=1.[*]%91
 comp45, C1OC=CC=1C(=O)OC, 3, C1OC%91=CC=1C(=O)OC.[*]%91
 comp46, C1(C)OC=CC=1C(=O)OC, 4, C1(C)OC%91=CC=1C(=O)OC.[*]%91
-comp47, C1(C)NC(C#N)=CC=1, 7, C1(C)NC(C#N)=C%91C=1.[*]%91
-comp48, C1(C)NC(C#N)=CC=1, 8, C1(C)NC(C#N)=CC%91=1.[*]%91 
+comp47, C1(=CC=C(C#N)N1C)C, 3, C1(=CC%91=C(C#N)N1C)C.[*]%91
+comp48, C1(=CC=C(C#N)N1C)C, 2, C1(=C%91C=C(C#N)N1C)C.[*]%91
 comp49, C1SC=CC=1C#N, 3, C1SC%91=CC=1C#N.[*]%91
 comp50, C1SC=CC=1C#N, 1, C1%91SC=CC=1C#N.[*]%91
 comp51, C1SC=CC=1Cl, 3, C1SC%91=CC=1Cl.[*]%91
