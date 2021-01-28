@@ -12,7 +12,7 @@ comp12, C1C2=C(N=C(N2)C)C=CC=1F, 4, C1C2=C(N=C(N2)C)C=C%91C=1F.[*]%91
 comp13, C1=NC=NC=C1, 6, C1=NC=NC=C%911.[*]%91
 comp14, C1C=CN=C(C)N=1, 2, C1C%91=CN=C(C)N=1.[*]%91
 comp15, C1C=CN=C(C#N)N=1, 2, C1C%91=CN=C(C#N)N=1.[*]%91
-comp16, N1C=CC=N1, 4, N1C=CC%91=N1.[*]%91
+comp16, N1C=CC=N1, 4, N1N=CC%91=C1.[*]%91
 comp17, N1C=CC(C)=N1, 3, N1C=C%91C(C)=N1.[*]%91
 comp18, N1C(C)=CC(C)=N1, 4, N1C(C)=C%91C(C)=N1.[*]%91
 comp19, N1C=CC(C(F)(F)F)=N1, 2, N1C%91=CC(C(F)(F)F)=N1.[*]%91 
