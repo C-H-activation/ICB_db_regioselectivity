@@ -3,6 +3,7 @@ A database of real compounds and their regioselective products
 
 # Help
 To play with this data it is recommended to use [RDKit](www.rdkit.org) and Python.
+You can also use the demo version of [ketcher](https://lifescience.opensource.epam.com/ketcher/demo.html) to visualize SMILES.
 
 # Structure
 The data is split into several files
