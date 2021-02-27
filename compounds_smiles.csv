@@ -1,5 +1,5 @@
 comp1, C1C2=C(N=C(O2)C)C=CC=1, 1, C1%91=CC=CC2N=C(C)OC1=2.[*]%91
-comp2, C1C2=C(N=C(O2)C)C=C(Br)C=1, 2, C1C(Br)=CC2N=C(C)OC=2C%91=1.[*]%91
+comp2, C1C2=C(N=C(O2)C)C=C(Br)C=1, 11, C1C(Br)=CC2N=C(C)OC=2C%91=1.[*]%91
 comp3, C1C2=C(N=C(N2)C)C=CC=1, 2, C1=C%91C=CC2N=C(C)NC1=2.[*]%91
 comp4, C1(Cl)=CC=NC2NC(C)=CC1=2, 10, C1(C2=C(NC(=C2)C)N=CC%91=1)Cl.[*]%91
 comp5, C1C2=C(N=C(O2)C)C=C(OC)C=1, 1, C1%91=CC(OC)=CC2N=C(C)OC1=2.[*]%91
